@@ -16,6 +16,7 @@ git clone repositoryAddress
 ```
 git add 大数据193时政19496323.md
 git commit -m '第一次提交'
+git pull
 git push -u origin main 
 
 ```
